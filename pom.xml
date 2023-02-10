@@ -8,7 +8,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <groupId>in.javahome</groupId>  
   <artifactId>Maventomcat</artifactId>  
   <version>8.2.0</version>  
-  <packaging>war</packaging>  
+  <packaging>jar</packaging>  
  
   <name>Maven First Application</name>  
   <url>http://maven.apache.org</url>  
